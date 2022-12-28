@@ -1,3 +1,5 @@
+> This repo has been archived and moved [here](https://github.com/etn-ccis/blui-react-design-patterns).
+
 # React Design Patterns
 
 [![](https://img.shields.io/circleci/project/github/brightlayer-ui/react-design-patterns/master.svg?style=flat)](https://circleci.com/gh/brightlayer-ui/react-design-patterns/tree/master) [![codecov](https://codecov.io/gh/brightlayer-ui/react-design-patterns/branch/master/graph/badge.svg?token=GG1T9203PD)](https://codecov.io/gh/brightlayer-ui/react-design-patterns)
